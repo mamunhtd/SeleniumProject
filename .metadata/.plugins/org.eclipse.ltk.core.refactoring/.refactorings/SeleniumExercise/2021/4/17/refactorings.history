@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SeleniumExercise/Drivers/chromedriver.exe&apos; to &apos;chromedriverOld.exe&apos;" description="Rename resource &apos;chromedriver.exe&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Drivers/chromedriver.exe" name="chromedriverOld.exe" stamp="1619239063901" updateReferences="true"/>
+</session>

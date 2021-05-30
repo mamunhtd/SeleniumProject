@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;coditionStatement.While_Do_Loop_Statement&apos; to &apos;Do_While_Loop_Statement&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject&apos;&#x0D;&#x0A;- Original element: &apos;coditionStatement.While_Do_Loop_Statement&apos;&#x0D;&#x0A;- Renamed element: &apos;coditionStatement.Do_While_Loop_Statement&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;While_Do_Loop_Statement&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;coditionStatement{While_Do_Loop_Statement.java[While_Do_Loop_Statement" matchStrategy="1" name="Do_While_Loop_Statement" qualified="false" references="true" similarDeclarations="false" stamp="1615181011867" textual="false" version="1.0"/>
+</session>

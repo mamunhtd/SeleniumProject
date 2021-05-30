@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41499" started-at="2021-04-25T18:21:04 EDT" finished-at="2021-04-25T18:21:45 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41499" started-at="2021-04-25T18:21:04 EDT" finished-at="2021-04-25T18:21:45 EDT">
+      <class name="statrtingPointOfFramework.TC001_Login">
+        <test-method status="PASS" signature="login()[pri:0, instance:statrtingPointOfFramework.TC001_Login@2a17b7b6]" name="login" duration-ms="41455" started-at="2021-04-25T18:21:04 EDT" finished-at="2021-04-25T18:21:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- statrtingPointOfFramework.TC001_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
